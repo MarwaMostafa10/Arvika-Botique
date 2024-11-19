@@ -39,6 +39,16 @@ Future updates to the project may include:
 Integration with additional data sources (e.g., social media analytics).
 Advanced predictive analytics for sales forecasting.
 Automated reporting and dashboard updates.
+
+- Questions(KPIs)
+ 1.What is the highest profit rate throughout the year?
+2.What is highest quarter sales rate?
+3.Why does the third quarter of the year record the highest sales? 
+4.What are the highest selling areas?
+5.How to achieve high sales rate all over the year?
+6.What are the highest selling areas?
+7.General factors to increase sales & profit.
+
 Contact Information 📧
 For any questions, collaborations, or if you’re interested in utilizing this solution for your business, feel free to contact me:
 
